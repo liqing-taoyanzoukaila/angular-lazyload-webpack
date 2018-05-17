@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(o,e,n){"use strict";let t=["$rootScope","$scope",function(o,e){console.log("enter default controller"),e.default="default page."}];o.exports=angular.module("config",[]).controller("defaultCtrl",t).name}}]);
