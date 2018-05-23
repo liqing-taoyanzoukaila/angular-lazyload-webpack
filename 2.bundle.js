@@ -1,1 +1,1 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(o,e,n){"use strict";let t=["$rootScope","$scope",function(o,e){console.log("enter default controller"),e.default="default page."}];o.exports=angular.module("config",[]).controller("defaultCtrl",t).name}}]);
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(e,o,t){"use strict";let l=["$rootScope","$scope",function(e,o){console.log("enter default controller"),o.default="default page."}];e.exports=angular.module("defaultCtrl",[]).controller("defaultCtrl",l).name}}]);

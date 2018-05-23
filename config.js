@@ -38,7 +38,7 @@ let config = ["$stateProvider", "$urlRouterProvider", "$controllerProvider",
         $stateProvider.state("default.subPage",{
             url:"/subPage",
             // templateUrl:"html/routerA.html",
-            template: "<div>{{subPageData}}</div>`",
+            template: "<div>{{subPageData}}</div>",
             controller: "subPageCtrl",
             resolve:{
                 'subPageCtrl': ["$q", "$ocLazyLoad", function($q, $ocLazyLoad) {

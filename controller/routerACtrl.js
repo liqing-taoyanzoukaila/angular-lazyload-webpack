@@ -4,5 +4,5 @@ let routerACtrl = ["$rootScope", "$scope", function ($rootScope, $scope) {
     $scope.say = "routerA page."
 }];
 
-module.exports = angular.module("config", [])
+module.exports = angular.module("routerACtrl", [])
     .controller("routerACtrl", routerACtrl).name;
