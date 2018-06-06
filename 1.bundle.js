@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(e,o,n){"use strict";let a=["$rootScope","$scope",function(e,o){console.log("enter subPage controller"),o.subPageData="subPage page."}];e.exports=angular.module("subPageCtrl",[]).controller("subPageCtrl",a).name}]]);

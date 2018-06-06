@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(o,e,r){"use strict";let t=["$rootScope","$scope",function(o,e){console.log("enter routerA controller"),e.say="routerA page."}];o.exports=angular.module("routerACtrl",[]).controller("routerACtrl",t).name}]]);
